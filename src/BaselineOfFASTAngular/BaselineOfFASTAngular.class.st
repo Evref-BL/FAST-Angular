@@ -48,7 +48,7 @@ BaselineOfFASTAngular >> defineDependencies: spec [
 	spec baseline: 'TreeSitter' with: [
 		spec
 			loads: #( 'moose' 'angular');
-			repository: 'github://Evref-BL/Pharo-Tree-Sitter:main/src' ]
+			repository: 'github://Evref-BL/Pharo-Tree-Sitter:v.3.1.0/src' ]
 
 ]
 
